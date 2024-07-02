@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Seiam Al Mahmud</h1>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />, I'm Seiam Al Mahmud</h1>
 <h3 align="center">A restLess Web developer from Bangladesh 🇧🇩</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seiamalmahmud" alt="seiamalmahmud" /></a> </p>
