@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seiamalmahmud" alt="seiamalmahmud" /></a> </p>
 
-- 🌱 I’m currently learning **Node JS, Express JS, Node Js**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [My Github Repositories](https://github.com/SeiamAlMahmud?tab=repositories)
 
