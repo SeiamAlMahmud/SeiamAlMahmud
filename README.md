@@ -48,7 +48,7 @@
   <hr>
 <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seiamAlMahmud&hide=Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" alt="seiamAlMahmud" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeiamAlMahmud&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="seiamAlMahmud" />
     </a>
   </div>
 </p>
