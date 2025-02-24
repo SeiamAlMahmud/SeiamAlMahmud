@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React Js**
 
-- 📫 How to reach me **durjoymahmud49@gmail.com**
+- 📫 How to reach me **samahmud49@gmail.com**
 
 - ⚡ Fun fact **I think I am the member of web development community.**
 
