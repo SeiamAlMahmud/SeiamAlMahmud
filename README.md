@@ -1,6 +1,8 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />, I'm Seiam Al Mahmud</h1>
 <h3 align="center">A restLess Web developer from Bangladesh 🇧🇩</h3>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=61DAFB&center=true&vCenter=true&width=600&lines=Frontend+%7C+Backend+Developer;MERN+Stack+Engineer;Learning+Docker+%26+DevOps;Building+Real+World+Apps" />
+</p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seiamalmahmud" alt="seiamalmahmud" /></a> </p>
 
 - 🌱 I’m currently learning **Docker **
